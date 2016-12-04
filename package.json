@@ -1,0 +1,6 @@
+{
+  "name": "my-awesome-package",
+  "version": "3.10.8",
+  "main":"server.js",
+  "scripts":{"start": "node server.js"}
+}
